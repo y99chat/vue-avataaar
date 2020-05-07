@@ -1,4 +1,4 @@
-<h1 align="center">vue-avataaar</h1>
+<h1 align="center">vue-avataaar demo</h1>
 ## Introduction
 
 This project is a Vue.js component wrapper for the library [avataaars](https://avataaars.com/) designed by [Pablo Stanley](https://twitter.com/pablostanley).
