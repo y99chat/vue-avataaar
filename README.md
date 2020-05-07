@@ -1,7 +1,7 @@
 <h1 align="center">vue-avataaar demo</h1>
 ## Introduction
 
-This project is a Vue.js component wrapper for the library [avataaars](https://avataaars.com/) designed by [Pablo Stanley](https://twitter.com/pablostanley).
+This is a demo for [vue-avataaar](https://github.com/jtouzy/vue-avataaar) component by jtouzy
 [Cartoon Avatar Maker Demo](https://y99.in/articles/online-cartoon-avatar-maker/)
 
 
@@ -202,4 +202,3 @@ You can provide all the available avataaars-options as component properties to c
 - ShortHairTheCaesarSidePart
 
 You can find all the available properties with the [avataaars-generator](https://getavataaars.com/) provided by [Fang-Pen Lin](https://twitter.com/fangpenlin).
-Based on [jtouzy vue-avataaar](https://github.com/jtouzy/vue-avataaar)
